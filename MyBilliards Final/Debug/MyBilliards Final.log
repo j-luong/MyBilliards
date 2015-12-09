@@ -1,0 +1,37 @@
+﻿Build started 24/04/2012 23:06:27.
+     1>Project "C:\Users\Jason\Dropbox\Uni\PROJECT!\MyBilliards\MyBilliards FinalVS2010\MyBilliards Final\MyBilliards Final.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\MyBilliards Final.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         b:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"\MyBilliards Final\MyBilliards Final\OpenGL" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Balls.cpp FSM.cpp GameObjects.cpp OGL.cpp WinMain.cpp
+         Balls.cpp
+         Generating Code...
+         Compiling...
+         WinMain.cpp
+         OGL.cpp
+         GameObjects.cpp
+         FSM.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         b:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Jason\Dropbox\Uni\PROJECT!\MyBilliards\MyBilliards FinalVS2010\Debug\MyBilliards Final.exe" /INCREMENTAL /NOLOGO /LIBPATH:"\MyBilliards Final\MyBilliards Final\OpenGL" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\MyBilliards Final.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Jason\Dropbox\Uni\PROJECT!\MyBilliards\MyBilliards FinalVS2010\Debug\MyBilliards Final.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Jason\Dropbox\Uni\PROJECT!\MyBilliards\MyBilliards FinalVS2010\Debug\MyBilliards Final.lib" /MACHINE:X86 "Debug\MyBilliards Final.exe.embed.manifest.res"
+         Debug\Balls.obj
+         Debug\FSM.obj
+         Debug\GameObjects.obj
+         Debug\OGL.obj
+         Debug\WinMain.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\MyBilliards Final.exe.embed.manifest" /manifest "Debug\MyBilliards Final.exe.intermediate.manifest"
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         MyBilliards Final.vcxproj -> C:\Users\Jason\Dropbox\Uni\PROJECT!\MyBilliards\MyBilliards FinalVS2010\Debug\MyBilliards Final.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\MyBilliards Final.unsuccessfulbuild".
+         Touching "Debug\MyBilliards Final.lastbuildstate".
+     1>Done Building Project "C:\Users\Jason\Dropbox\Uni\PROJECT!\MyBilliards\MyBilliards FinalVS2010\MyBilliards Final\MyBilliards Final.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.99
