@@ -1,9 +1,5 @@
 # MyBilliards
 
-Investigation and application of physics in billiards
-
-Research and investigation, physics in billiards
-
 To understand the physics required it is important to begin with the fundamental principles used. In this respect, Newton’s Laws of Motion provides a good starting point as they are very important in the study of mechanics in general.Newton’s laws of motionOn July 5th 1687, Sir Isaac Newton put forth his philosophies on mechanics in his Philosophiӕ Natralis Principia Mathematica. In this work, Newton stated his three laws of motion which are surmised here:
   i.  In the absence of a force, a body either is at rest or moves in a straight line at constant speed.
   ii. A body experiencing a force F experiences an acceleration a related to F by F=ma, where m is the mass of the body. Alternatively,        force is proportional to the time derivative of momentum.
